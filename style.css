@@ -1,0 +1,25 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+.banner_section{
+    background-image: url(B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
+/* Rectangle 15 */
+    position: inherit;
+    width: 1320px;
+    height: 600px;
+    left: 140px;
+    right: -140px;
+    top: 50px;
+    bottom: -50px;
+    
+}
+.banner_container{
+    color: white;
+    text-align: center;
+    align-items: center
+    ;
+}
+.midnight_party_section{
+    background-image: url(B9A1-New-Year-New-Mission/resources/Vectorrr.png);
+}
