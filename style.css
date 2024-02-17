@@ -11,6 +11,7 @@ span{
 
 
 }
+/* <!-- banner section start --> */
 .banner_section{
     background-image: url(images/Banner\ Image.png);
     background-color: rgba(0,0,0, 0.9);
@@ -31,6 +32,9 @@ span{
     margin: auto;
    
 }
+/* <!-- banner section start --> */
+
+/* <!-- happy new year section start --> */
 .happy_newyear_container{
     font-family: inter;
     text-align: center;
@@ -55,6 +59,9 @@ span{
     font-size: 45px;
     margin: 15px;
 }
+/* <!-- happy new year section end --> */
+
+/* midnight party section start */
 .midnight_party_section{
     display: flex;
     justify-content: space-around;
@@ -84,6 +91,9 @@ span{
     margin: 50px 0px 0px 55px;
 
 }
+/* <!-- midnight party section end --> */
+
+/* <!-- join_now_section start --> */
 .join_now_section{
     font-family: inter;
     text-align: center;
@@ -111,6 +121,9 @@ color: white;
 border-style: none;
 background: rgb(255, 0, 0);
 }
+/* <!-- join_now_section end --> */
+
+/* <!-- coming_soon_container section start --> */
 .coming_soon_container{
     display: flex;
     justify-content: space-between;
@@ -138,6 +151,9 @@ background: rgb(255, 0, 0);
     padding: 11px 0px;
     color: gray;
 }
+/* <!-- coming_soon_container section end --> */
+
+/* <!-- Holidays_Sale_container section start --> */
 .Holidays_Sale_container{
     text-align: center;
     align-items: center;
@@ -157,6 +173,9 @@ background: rgb(255, 0, 0);
     font-family: inter;
     padding: 11px 0px;
 }
+/* <!-- Holidays_Sale_container section end --> */
+
+/* <!-- Our_Awesome_Portfolio_container section start --> */
 .Our_Awesome_Portfolio_container{
     width: 1320px;
     height: 1163px;
@@ -177,6 +196,9 @@ background: rgb(255, 0, 0);
     display: flex;
     gap: 25px;
 }
+/* <!-- Our_Awesome_Portfolio_container section end --> */
+
+/* <!-- Subscribe_Newsletter_container section start --> */
 .Subscribe_Newsletter_container{
     width: 1320px;
     height: 615px;
@@ -220,6 +242,9 @@ background: rgb(255, 0, 0);
     border-top-left-radius: 0px;
     border-bottom-left-radius: 0px;
 }
+/* <!-- Subscribe_Newsletter_container section end --> */
+
+/* <!-- footer section start --> */
 .footer_container{
     width: auto;
     height: 609px;
@@ -258,4 +283,5 @@ background: rgb(255, 0, 0);
     font-family: inter;
     padding: 50px 0px;
 }
+/* <!-- footer section start --> */
 
