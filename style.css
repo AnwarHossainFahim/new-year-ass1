@@ -108,3 +108,23 @@ color: white;
 border-style: none;
 background: rgb(255, 0, 0);
 }
+.coming_soon_container{
+    display: flex;
+    justify-content: space-between;
+    text-align: left;
+    align-items: center;
+    font-weight: 500;
+    font-family: inter;
+    width: 1320px;
+    height: 463px;
+    margin: 35px auto;
+}
+.best_offer_h1{
+    font-size: 20px;
+    color: red;
+}
+.comming_soon{
+    font-size: 45px;
+    font-family: Merriweather;
+    padding: 11px 0px;
+}
