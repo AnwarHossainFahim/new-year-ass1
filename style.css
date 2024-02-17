@@ -1,24 +1,41 @@
+
+
 *{
     margin: 0;
     padding: 0;
+
 }
 .banner_section{
-    background-image: url(B9A1-New-Year-New-Mission/resources/Banner\ Image.png);
+    background-image: url(images/Banner\ Image.png);
 /* Rectangle 15 */
-    position: inherit;
+    align-items: center;
     width: 1320px;
     height: 600px;
-    left: 140px;
-    right: -140px;
-    top: 50px;
-    bottom: -50px;
+    margin: 50px auto;
+    font-family: inter;
     
 }
 .banner_container{
+    font-size: 45px;
+    font-family: ;
+    padding-top: 150px;
     color: white;
     text-align: center;
-    align-items: center
-    ;
+    align-items: center;
+    margin: auto;
+   
+}
+.happy_newyear_container{
+    text-align: center;
+    margin: auto;
+    padding: 50px; 
+}
+.off{
+    font-size: 70px;
+    font-weight: 800;
+    padding: 30px;
+    color: red;
+    
 }
 .midnight_party_section{
     background-image: url(B9A1-New-Year-New-Mission/resources/Vectorrr.png);
