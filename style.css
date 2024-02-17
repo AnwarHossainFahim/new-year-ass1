@@ -7,6 +7,9 @@
 }
 span{
     color: red;
+    font-weight: 700;
+
+
 }
 .banner_section{
     background-image: url(images/Banner\ Image.png);
@@ -20,7 +23,7 @@ span{
 }
 .banner_container{
     font-size: 45px;
-    font-family:  ;
+    font-family: Merriweather ;
     padding-top: 150px;
     color: white;
     text-align: center;
@@ -127,4 +130,64 @@ background: rgb(255, 0, 0);
     font-size: 45px;
     font-family: Merriweather;
     padding: 11px 0px;
+}
+.h2024{
+    font-size: 45px;
+}
+.p2024{
+    padding: 11px 0px;
+    color: gray;
+}
+.Holidays_Sale_container{
+    text-align: center;
+    align-items: center;
+}
+.Holidays_Sale_h5{
+    font-size: 20px;
+    font-family: inter;
+}
+.Holidays_h1{
+    font-size: 65px;
+    font-family: Merriweather;
+    font-weight: 700;
+    padding: 15px 0px;
+}
+.Holidays_ptag{
+    color: gray;
+    font-family: inter;
+    padding: 11px 0px;
+}
+.Our_Awesome_Portfolio_container{
+    width: 1320px;
+    height: 1163px;
+    margin: 10px auto;
+}
+.Portfolio_container_h5{
+    font-size: 20px;
+    font-family: inter;
+}
+.Awesome_Portfolio_h1{
+    font-size: 45px;
+    font-family: Merriweather;
+    margin: 15px 0px;
+
+}
+.prodacts_container{
+    margin: 25px auto;
+    display: flex;
+    gap: 25px;
+}
+.Subscribe_Newsletter_container{
+    width: 1320px;
+    height: 615px;
+    text-align: center;
+    align-items: center;
+    padding-top: 45px;
+    margin: 15px auto;
+    background-color: rgba(255, 0, 0, 0.05);;
+}
+.Subscribe_h1{
+    font-size: 60px;
+    font-family: Merriweather;
+    padding: 15px 0px;
 }
