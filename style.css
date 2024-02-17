@@ -5,6 +5,9 @@
     padding: 0;
 
 }
+span{
+    color: red;
+}
 .banner_section{
     background-image: url(images/Banner\ Image.png);
 /* Rectangle 15 */
@@ -12,12 +15,12 @@
     width: 1320px;
     height: 600px;
     margin: 50px auto;
-    font-family: inter;
+    font-family:  Merriweather;
     
 }
 .banner_container{
     font-size: 45px;
-    font-family: ;
+    font-family:  ;
     padding-top: 150px;
     color: white;
     text-align: center;
@@ -26,17 +29,82 @@
    
 }
 .happy_newyear_container{
+    font-family: inter;
     text-align: center;
     margin: auto;
     padding: 50px; 
 }
 .off{
+    font-family: inter;
     font-size: 70px;
     font-weight: 800;
-    padding: 30px;
+    padding: 25px;
     color: red;
     
 }
+.OUR_HOLIDAY{
+    font-size: 24px;
+    font-family: inter ;
+    font-weight: 500;
+    color: red;
+}
+.ALL_CATEGORIES{
+    font-size: 45px;
+    margin: 15px;
+}
 .midnight_party_section{
-    background-image: url(B9A1-New-Year-New-Mission/resources/Vectorrr.png);
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    width: 1320px;
+    height: 600px;
+    background-image: url(images/Vectorrr.png);
+    background-repeat: no-repeat;
+    margin: 25px auto;
+    text-align: left;
+    color: white;
+}
+.welcome_to_midnight{
+    font-size: 65px;
+    
+}
+.midnight_ptag{
+    color: rgba(255, 255, 255, 0.8);
+    font-family: Inter;
+    font-size: 18px;
+    font-weight: 400;
+    text-align: left;
+}
+.join_now{
+    font-size: 20px;
+    font-family: inter;
+    margin: 50px 0px 0px 55px;
+
+}
+.join_now_section{
+    font-family: inter;
+    text-align: center;
+    align-items: center;
+    width: 1320px;
+    height: 482px;
+    margin: 130px auto;
+    padding-top: 150px;
+    background: linear-gradient(180.00deg, rgba(255, 0, 0, 0.1),rgba(255, 0, 0, 0) 100%);;
+}
+
+.time_date{
+    font-size: 32px;
+    padding: 15px;
+}  
+.btn{
+
+width: 167px;
+height: 56px;
+padding: 100px;
+align-items: center;
+padding: 16px 32px 16px 32px;
+border-radius: 8px;
+color: white;
+border-style: none;
+background: rgb(255, 0, 0);
 }
