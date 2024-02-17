@@ -13,7 +13,7 @@ span{
 }
 .banner_section{
     background-image: url(images/Banner\ Image.png);
-/* Rectangle 15 */
+    background-color: rgba(0,0,0, 0.9);
     align-items: center;
     width: 1320px;
     height: 600px;
@@ -219,8 +219,43 @@ background: rgb(255, 0, 0);
     border-radius: 50px;
     border-top-left-radius: 0px;
     border-bottom-left-radius: 0px;
-
-    
-    
-
 }
+.footer_container{
+    width: auto;
+    height: 609px;
+    margin: 25px auto;
+    color: white;
+    background-color:rgb(7, 2, 17);
+}
+.address_containt{
+    display: flex;
+    justify-content: space-around;
+    font-size: 24px;
+    font-family: inter;
+    text-align: left;
+    align-items: center;
+    padding: 85px 0px 50px 0px;
+}
+.hr{
+    color:
+    rgba(255, 255, 255, 0.15);
+}
+.icon_container{
+    text-align: center;
+    align-items: center;
+   
+    padding: 35px 0px;
+    
+}
+.icon_containt{
+    justify-content: space-between;
+    gap: 35px;
+}
+.All_Rights_Reserved{
+    display: flex;
+    justify-content: space-around;
+    font-size: 240x;
+    font-family: inter;
+    padding: 50px 0px;
+}
+
