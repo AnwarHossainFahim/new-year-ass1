@@ -13,8 +13,7 @@ span{
 }
 /* <!-- banner section start --> */
 .banner_section{
-    background-image: url(images/Banner\ Image.png);
-    background-color: rgba(0,0,0, 0.9);
+    background-image:linear-gradient(180.00deg, rgb(7, 2, 17),rgba(7, 2, 17, 0) 80%),url(images/Banner\ Image.png);
     align-items: center;
     width: 1320px;
     height: 600px;
@@ -30,7 +29,21 @@ span{
     text-align: center;
     align-items: center;
     margin: auto;
-   
+}
+.banner_container_h3{
+    font-size: 30px;
+    font-family: Merriweather;
+    font-weight: 500;
+    text-align: center;
+    padding-top: 35px;
+
+}
+.banner_container_h1{
+    font-size: 70px;
+    font-family: Merriweather;
+    font-weight: 900;
+    padding-top: 35px;
+    text-align: center;
 }
 /* <!-- banner section start --> */
 
@@ -150,6 +163,11 @@ background: rgb(255, 0, 0);
 .p2024{
     padding: 11px 0px;
     color: gray;
+}
+.ellipse_img{
+    border-radius: 50%;
+    border: 15px solid red;
+    padding: 20px;
 }
 /* <!-- coming_soon_container section end --> */
 
